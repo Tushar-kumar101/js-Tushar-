@@ -3,4 +3,6 @@ let accountEmail = "tushar@email.com"
 var accountpassword = "12345678"
 let accountcity = "uttarpardesh"
 
-console.log(accountID);
+ console.log(accountID);
+
+console.table([accountID,accountEmail,accountpassword,accountcity]);
